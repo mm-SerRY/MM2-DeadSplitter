@@ -1,7 +1,7 @@
 # MM2-DeadSplitter
 [deathcounter](https://github.com/5cyd/deathcounter/tree/v1.2) の影響を受けたSMM2用のsplit
 
-OBS仮想カメラ>>出力の種類:ソース>>出力の種類:映像キャプチャ(1080p)
+OBS仮想カメラ>>出力の種類:ソース>>出力の種類:映像キャプチャ(1080p)  
 コース名読み取りにはeasyOCRを使用しています。
 
 v0.6.0 : 読み取りに関する設定をいじれないためキャプボやフィルタにより正しく動作しない可能性あり
