@@ -20,7 +20,7 @@ OBSの仮想カメラを検知して自動的に読み取ります
 new : データを読み込んでいない状態にします。自動的にauto recordingがONになります  
 Load (on Level select):データを手動で読み込みます  
 Load (on Level)       :データを手動で読み込みます。すでにコース内に入っている場合はこちらから  
-Loadをすると自動的にauto recordingがOFFになります  
+手動でLoadをすると自動的にauto recordingがOFFになります  
 
 オプション:  
 auto recording:コースタイトル画面を自動で検知して、データを読み込みます。(アプリ起動時にON)  
